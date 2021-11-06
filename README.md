@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @habibi242
 - 👀 I’m interested in Blockchain and trading
 - 🌱 I’m currently learning FinTech
-- 💞️ I’m looking to collaborate on how to build a dapp bot
+
 
 
 <!---
